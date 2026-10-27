@@ -1,6 +1,6 @@
 # Abuse actor — phishing takedown coordinator
 
-Canonical repository: `etzhayyim/actor-abuse`.
+Canonical repository: `cloud-itonami/actor-abuse`.
 
 Abuse is an organ of the Tamaki artificial organism. It gathers public
 infrastructure evidence and prepares phishing or impersonation takedown drafts;
